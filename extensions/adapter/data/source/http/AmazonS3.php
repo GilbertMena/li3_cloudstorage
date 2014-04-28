@@ -3,7 +3,6 @@
 namespace li3_aws\extensions\adapter\data\source\http;
 
 use lithium\util\String;
-use li3_aws\data\AmazonS3File;
 
 class AmazonS3 extends \lithium\data\source\Http {
 
